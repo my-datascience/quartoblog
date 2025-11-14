@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://my-datascience.github.io/quartoblog/posts/lists_mutability_cloning.html</loc>
+    <lastmod>2025-11-14T11:07:08.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://my-datascience.github.io/quartoblog/posts/finger_exercises.html</loc>
+    <lastmod>2025-11-14T19:59:23.225Z</lastmod>
+  </url>
+  <url>
     <loc>https://my-datascience.github.io/quartoblog/index.html</loc>
     <lastmod>2025-11-14T19:45:40.312Z</lastmod>
   </url>
   <url>
-    <loc>https://my-datascience.github.io/quartoblog/about.html</loc>
-    <lastmod>2025-11-14T19:45:40.312Z</lastmod>
+    <loc>https://my-datascience.github.io/quartoblog/posts/Floating-Point.html</loc>
+    <lastmod>2025-11-13T14:23:40.827Z</lastmod>
   </url>
 </urlset>
